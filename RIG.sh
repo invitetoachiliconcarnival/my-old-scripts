@@ -1,4 +1,4 @@
-# Random-image-generator
+# Random-image-generator THIS DOSE NOT GENERATE IMAGES LIKE A AI THIS SCRIPT JUST MAKES RAINBOW FUZZ
 # simple script that generates fuzzy images based on the users input
 # ---
 # free to modify and share but you must give me credit
